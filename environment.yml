@@ -1,0 +1,13 @@
+name: cdi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - owslib
+  - lxml
+  - pandas
+  - netcdf4
+  - matplotlib
+  - xarray
+  - pygdp
